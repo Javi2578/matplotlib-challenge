@@ -1,6 +1,4 @@
 # matplotlib-challenge
-module 5
-
 
 Instructions
 This assignment is broken down into the following tasks:
